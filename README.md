@@ -36,8 +36,5 @@ https://www.nist.gov/itl/products-and-services/emnist-dataset
 - Matplotlib  
 - OpenCV  
 - Google Colab (training)  
-- Git & GitHub  
+- Git & GitHub
 
----
-
-## Project Structure
